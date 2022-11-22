@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+sime links -
+- website: https://www.jamesnovak.com/
+- masoton: <a rel="me" href="https://hachyderm.io/@jamesnovak">Mastodon</a>
+- linkedin: https://www.linkedin.com/in/jamesnovak/
 <!--
 **jamesnovak/jamesnovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
